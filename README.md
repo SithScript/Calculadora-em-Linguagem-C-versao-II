@@ -1,7 +1,5 @@
 # Calculadora em Linguagem C versao II
 
-# Calculadora em Linguagem C versao II
-
 📝 Calculadora C versao II.
 
 Uma calculadora funcional desenvolvida em linguagem C como parte dos estudos de Algoritmos e Programação de Computadores. O projeto foca na implementação de lógica aritmética básica e interação via terminal. Essa é uma versão II da calculadora anterior com objetivo code clean, utilizando uma nova sintaxe com a mesma qualidade no resultado final.
